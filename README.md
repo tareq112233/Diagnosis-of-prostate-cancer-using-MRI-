@@ -272,7 +272,7 @@ If you use this work in your research, please cite:
   author    = {Tareq ZAEFA},
   year      = {2024},
   note      = {Graduation Project, [Al-Andalus University for Medical Sciences]},
-  url       = {https://github.com/[username]/prostate-cancer-hybrid-ai}
+  url       = {https://github.com/tareq112233/diagnosis-of-prostate-cancer-using-MRI}
 }
 ```
 
