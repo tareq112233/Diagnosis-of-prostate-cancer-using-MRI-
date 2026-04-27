@@ -19,7 +19,6 @@
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Research Contributions](#research-contributions)
-- [Future Work](#future-work)
 - [Citation](#citation)
 
 ---
